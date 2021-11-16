@@ -13,11 +13,3 @@
 </p>
 <p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 
-
-<hr>
-
-Discord: xBunnyHop#0001
-
-<hr>
-
-  ![Snake Animation](https://github.com/xBunyHop/xBunnyHop/blob/main/grid-snake.svg)
